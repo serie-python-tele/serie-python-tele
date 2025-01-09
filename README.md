@@ -7,7 +7,7 @@ Cette série est en cours d'écriture.
   <tr>
     <td style="text-align:center">
       <a href="https://serie-python-tele.github.io/TraitementImagesPythonVol1">
-        <img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">
+        <img src="https://serie-python-tele.github.io/TraitementImagesPythonVol1/images/gen-ai/Gemini_Generated_Image_3a8wwf3a8wwf3a8w.jpg" style="width:401px;height:520px;">
       </a>
     </td>
   </tr>
