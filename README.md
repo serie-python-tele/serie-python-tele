@@ -1,16 +1,14 @@
-## Hi there 👋
+# Série Python appliqué à la télédétection
 
-<!--
-**serie-python-tele/serie-python-tele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cette série est en cours d'écriture.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0", style="border:none;">
+  <tr>
+    <td style="text-align:center">
+      <a href="https://github.com/serie-python-tele/TraitementImagesPythonVol1/">
+        <img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">
+      </a>
+    </td>
+  </tr>
+</table>
