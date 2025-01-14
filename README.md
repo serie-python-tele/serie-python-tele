@@ -7,7 +7,7 @@ Cette série est en cours d'écriture.
   <tr>
     <td style="text-align:center">
       <a href="https://serie-python-tele.github.io/TraitementImagesPythonVol1">
-        <img src="https://github.com/serie-python-tele/TraitementImagesPythonVol1/blob/main/images/cover_thumbnail.png" style="width:401px;">
+        <img src="https://github.com/serie-python-tele/TraitementImagesPythonVol1/blob/main/images/couverture-full.jpg" style="width:401px;">
       </a>
     </td>
   </tr>
